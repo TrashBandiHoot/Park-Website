@@ -1,0 +1,34 @@
+.background {
+    z-index: -1;
+    width: 100%;
+    position: fixed;
+    margin-top: -500px;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+}
+
+.bottom {
+    width: 100%;
+}
+
+#footertext {
+    display: flex;
+}
+
+#footerleft {
+    display: flex;
+    padding-left: 10%;
+}
+
+#footerright {
+    display: flex;
+    padding-left: 60%;
+}
+
+#map {
+    display:flex;
+    justify-content: center;
+}
